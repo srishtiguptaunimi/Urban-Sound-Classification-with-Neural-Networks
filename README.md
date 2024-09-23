@@ -16,7 +16,7 @@ This project focuses on classifying urban sounds using neural networks. By lever
 - [Future Work](#future-work)
 
 ## Project Description
-Urban environments are filled with diverse sounds that contribute to the overall atmosphere. This project aims to classify these sounds using a neural network trained on a dataset of urban audio recordings. The model is designed to recognize specific sound categories, which can be useful in various applications, such as smart city monitoring, environmental sound analysis, and enhancing user experiences in urban settings.
+Urban environments are filled with diverse sounds that contribute to the overall atmosphere. This project aims to classify these sounds using a neural network trained on a dataset of urban audio recordings. The model is designed to recognize specific sound categories, which can be useful in various applications, such as smart city monitoring, environmental sound analysis, and enhancing user experiences in urban settings.The UrbanSound8k dataset can be downloaded at https://urbansounddataset.weebly.com/urbansound8k.html
 
 ## Data
 The dataset used for this project consists of audio recordings categorized into **eight different classes** of urban sounds:
